@@ -26,7 +26,6 @@
     </plugins>
   </build>
    <distributionManagement>
-     
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
